@@ -1,0 +1,8 @@
+/root/Arithmatoy-Base/build/CMakeFiles/arithmatoy.dir
+/root/Arithmatoy-Base/build/CMakeFiles/arithmatoy-cli.dir
+/root/Arithmatoy-Base/build/CMakeFiles/edit_cache.dir
+/root/Arithmatoy-Base/build/CMakeFiles/rebuild_cache.dir
+/root/Arithmatoy-Base/build/CMakeFiles/list_install_components.dir
+/root/Arithmatoy-Base/build/CMakeFiles/install.dir
+/root/Arithmatoy-Base/build/CMakeFiles/install/local.dir
+/root/Arithmatoy-Base/build/CMakeFiles/install/strip.dir

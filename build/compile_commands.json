@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/root/Arithmatoy-Base/build",
+  "command": "/usr/bin/cc -I/root/Arithmatoy-Base/src/include -I/root/Arithmatoy-Base/src -g -o CMakeFiles/arithmatoy.dir/src/arithmatoy.c.o -c /root/Arithmatoy-Base/src/arithmatoy.c",
+  "file": "/root/Arithmatoy-Base/src/arithmatoy.c"
+},
+{
+  "directory": "/root/Arithmatoy-Base/build",
+  "command": "/usr/bin/cc -I/root/Arithmatoy-Base/src/include -I/root/Arithmatoy-Base/src -g -o CMakeFiles/arithmatoy-cli.dir/src/cli.c.o -c /root/Arithmatoy-Base/src/cli.c",
+  "file": "/root/Arithmatoy-Base/src/cli.c"
+}
+]
